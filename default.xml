@@ -11,7 +11,7 @@
   <remote  name="github"
            fetch="git://github.com/" />
   <remote  name="smart-gihub"
-	   fetch="git://github.com/trujillopablo/">
+	   fetch="git://github.com/trujillopablo/" >
   <default revision="refs/tags/android-4.3_r2.1"
            remote="aosp"
            sync-j="4" />
