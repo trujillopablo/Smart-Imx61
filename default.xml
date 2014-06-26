@@ -8,7 +8,7 @@
            sync-j="4" />
 
   <!-- Smart Devices -->
-  <project path="device/Smtt" name="Smart-Imx6" remote="smart-gihub" revision="Smart-1.0.0" />
+  <project path="device/Smtt" name="Smart-Imx61" remote="smart-gihub" revision="Smart-1.0.0" />
 
 
 </manifest>
