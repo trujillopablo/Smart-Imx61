@@ -17,7 +17,7 @@
            sync-j="4" />
 
   <!-- Smart Devices -->
-  <project path="device/Smtt" name="smart_base_layout" remote="smart-gihub" revision="Smart-1.0.0" />
+  <project path="device/Smtt" name="smart_base_layout" remote="smart-gihub" revision="Smart-1.0.1" />
 
 
   <!-- Boundary Devices kernel and U-Boot -->
