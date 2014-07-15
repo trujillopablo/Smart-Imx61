@@ -18,7 +18,7 @@
 
   <!-- Smart Devices -->
   <project path="device/Smtt" name="smart_base_layout" remote="smart-gihub" revision="Smart-1.0.1" />
-  <project path="framework/packages/apps/FDroid" name="FDroid-apk" remote="smart-gihub" revision="Smart-1.0.1" />
+  <project path="packages/apps/FDroid" name="FDroid-apk" remote="smart-gihub" revision="Smart-1.0.1" />
 
   <!-- Boundary Devices kernel and U-Boot -->
   <project path="kernel_imx" name="linux-imx6" revision="boundary-jb4.3_1.0.0-ga" remote="boundary-github" />
