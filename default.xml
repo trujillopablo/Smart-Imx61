@@ -18,6 +18,7 @@
 
   <!-- Smart Devices -->
   <project path="device/Smtt" name="smart_base_layout" remote="smart-gihub" revision="Smart-1.0.1" />
+  <project path="packages/apps/BasicTestApk" name="BasicTestApk" remote="smart-gihub" revision="Smart-1.0.1" />
   <project path="packages/apps/FDroid" name="FDroid-apk" remote="smart-gihub" revision="Smart-1.0.1" />
 
   <!-- Boundary Devices kernel and U-Boot -->
